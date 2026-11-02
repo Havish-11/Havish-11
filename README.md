@@ -1,7 +1,7 @@
 # Havish S
 
 <p align="center">
-  <img src="koi/koi.gif" width="256" alt="Tea Koi" />
+  <img src="koi/koi.gif" width="500" alt="Tea Koi" />
 </p>
 
 <p align="center">
